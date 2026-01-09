@@ -12,8 +12,6 @@ I enjoy designing scalable data solutions, transforming raw data into structured
 </p>
 
 <ul>
-  <li>🔭 Currently working on <b>data pipelines, ETL workflows, and Lakehouse architectures</b></li>
-  <li>🌱 Currently learning <b>Spark, cloud data engineering, and advanced data modeling</b></li>
   <li>👯 Open to collaborating on <b>data engineering and real world data platform projects</b></li>
   <li>📫 Reach me at <b>leashakrish2002@gmail.com</b></li>
 </ul>
