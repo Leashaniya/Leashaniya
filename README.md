@@ -4,7 +4,7 @@ Data Science Undergraduate | Aspiring Data Engineer | Focused on Data Pipelines 
 </h3>
 
 <p align="center">
-I am a Data Science undergraduate at SLIIT with a strong focus on data engineering. I have hands on experience in building and maintaining data pipelines, implementing ETL and ELT workflows, and working with Lakehouse based data architectures. My technical experience includes Python, SQL, Microsoft Fabric, Azure Synapse, Databricks, Azure Data Factory, and Spark based processing.
+I am a Data Science undergraduate with a strong focus on data engineering. I have hands on experience in building and maintaining data pipelines, implementing ETL and ELT workflows, and working with Lakehouse based data architectures. My technical experience includes Python, SQL, Microsoft Fabric, Azure Synapse, Databricks, Azure Data Factory, and Spark based processing.
 </p>
 
 <p align="center">
