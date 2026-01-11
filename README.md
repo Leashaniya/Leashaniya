@@ -13,6 +13,7 @@ I enjoy designing scalable data solutions, transforming raw data into structured
 
 <ul>
   <li>👯 Open to collaborating on <b>data engineering and real world data platform projects</b></li>
+  <li>🌐 View my portfolio: <a href="https://leashaniya.github.io/my-portfolio/" target="_blank"><b>leashaniya.github.io/my-portfolio</b></a></li>
   <li>📫 Reach me at <b>leashakrish2002@gmail.com</b></li>
 </ul>
 
@@ -23,5 +24,8 @@ I enjoy designing scalable data solutions, transforming raw data into structured
   </a>
   <a href="https://medium.com/@leashakrish2002" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://leashaniya.github.io/my-portfolio/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubpages.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
