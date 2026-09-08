@@ -1,18 +1,34 @@
 <h1 align="center">Hi 👋, I'm Leashaniya</h1>
 <h3 align="center">
-Data Science Undergraduate | Aspiring Data Engineer | Focused on Data Pipelines and Cloud Data Platforms
+Data Engineer | Building scalable data platforms and analytics solutions
 </h3>
-
 <p align="center">
-I am a Data Science undergraduate with a strong focus on data engineering. I have hands on experience in building and maintaining data pipelines, implementing ETL and ELT workflows, and working with Lakehouse based data architectures. My technical experience includes Python, SQL, Microsoft Fabric, Azure Synapse, Databricks, Azure Data Factory, and Spark based processing.
+I'm a Data Engineer passionate about building scalable data platforms and transforming raw data into reliable, analytics-ready datasets.
+</p>
+<p align="center">
+My experience includes designing and optimizing end-to-end data pipelines, developing PySpark notebooks, implementing Bronze-to-Gold data transformations, and building semantic models and reporting solutions in Microsoft Fabric and Power BI.
+</p>
+<p align="center">
+I have worked on enterprise data engineering initiatives including SAP data consolidation, customer data validation and reconciliation, semantic modeling, workflow automation, and data quality engineering. I enjoy solving complex data challenges, improving data reliability, and delivering scalable analytics solutions that support business decision-making.
 </p>
 
+<h3 align="center">🛠️ Core Technologies</h3>
 <p align="center">
-I enjoy designing scalable data solutions, transforming raw data into structured and reliable datasets, and improving data quality and pipeline reliability. I am continuously learning modern cloud data engineering practices and distributed data processing.
+Microsoft Fabric · PySpark · SQL · Python · Power BI & DAX · Lakehouse Architecture · Data Modeling & Semantic Models · ETL / ELT Pipelines · Snowflake · Azure Data Factory · Kafka · Apache Airflow
 </p>
+
+<h3 align="center">🚀 What I've Worked On</h3>
+<ul>
+  <li>Enterprise-scale SAP data consolidation and reporting solutions</li>
+  <li>Bronze-to-Gold data transformation pipelines using Medallion Architecture</li>
+  <li>Customer data validation and reconciliation across multiple source systems</li>
+  <li>Power BI semantic models, KPIs, and analytical reporting</li>
+  <li>Workflow automation and data pipeline orchestration</li>
+  <li>Data quality engineering and business-driven analytics solutions</li>
+</ul>
 
 <ul>
-  <li>👯 Open to collaborating on <b>data engineering and real world data platform projects</b></li>
+  <li>👯 Open to collaborating on <b>Data Engineering | Microsoft Fabric | PySpark | Analytics Engineering | Data Platform Projects</b></li>
   <li>🌐 View my portfolio: <a href="https://leashaniya.github.io/my-portfolio/" target="_blank"><b>leashaniya.github.io/my-portfolio</b></a></li>
   <li>📫 Reach me at <b>leashakrish2002@gmail.com</b></li>
 </ul>
