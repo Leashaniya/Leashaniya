@@ -9,7 +9,7 @@ I'm a Data Engineer passionate about building scalable data platforms and transf
 My experience includes designing and optimizing end to end data pipelines, developing PySpark notebooks, implementing Bronze to Gold data transformations, and building semantic models and reporting solutions in Microsoft Fabric and Power BI.
 </p>
 <p align="center">
-I have worked on enterprise data engineering initiatives including SAP data consolidation, customer data validation and reconciliation, semantic modeling, workflow automation, and data quality engineering. I enjoy solving complex data challenges, improving data reliability, and delivering scalable analytics solutions that support business decision-making.
+I have worked on enterprise data engineering initiatives including SAP data consolidation, customer data validation and reconciliation, semantic modeling, workflow automation, and data quality engineering. I enjoy solving complex data challenges, improving data reliability, and delivering scalable analytics solutions that support business decision making.
 </p>
 
 <h3 align="center">🛠️ Core Technologies</h3>
