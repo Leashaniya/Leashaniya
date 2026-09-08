@@ -3,10 +3,10 @@
 Data Engineer | Building scalable data platforms and analytics solutions
 </h3>
 <p align="center">
-I'm a Data Engineer passionate about building scalable data platforms and transforming raw data into reliable, analytics-ready datasets.
+I'm a Data Engineer passionate about building scalable data platforms and transforming raw data into reliable, analytics ready datasets.
 </p>
 <p align="center">
-My experience includes designing and optimizing end-to-end data pipelines, developing PySpark notebooks, implementing Bronze-to-Gold data transformations, and building semantic models and reporting solutions in Microsoft Fabric and Power BI.
+My experience includes designing and optimizing end to end data pipelines, developing PySpark notebooks, implementing Bronze to Gold data transformations, and building semantic models and reporting solutions in Microsoft Fabric and Power BI.
 </p>
 <p align="center">
 I have worked on enterprise data engineering initiatives including SAP data consolidation, customer data validation and reconciliation, semantic modeling, workflow automation, and data quality engineering. I enjoy solving complex data challenges, improving data reliability, and delivering scalable analytics solutions that support business decision-making.
@@ -19,16 +19,16 @@ Microsoft Fabric · PySpark · SQL · Python · Power BI & DAX · Lakehouse Arch
 
 <h3 align="center">🚀 What I've Worked On</h3>
 <ul>
-  <li>Enterprise-scale SAP data consolidation and reporting solutions</li>
-  <li>Bronze-to-Gold data transformation pipelines using Medallion Architecture</li>
+  <li>Enterprise scale SAP data consolidation and reporting solutions</li>
+  <li>Bronze to Gold data transformation pipelines using Medallion Architecture</li>
   <li>Customer data validation and reconciliation across multiple source systems</li>
   <li>Power BI semantic models, KPIs, and analytical reporting</li>
   <li>Workflow automation and data pipeline orchestration</li>
-  <li>Data quality engineering and business-driven analytics solutions</li>
+  <li>Data quality engineering and business driven analytics solutions</li>
 </ul>
 
 <ul>
-  <li>👯 Open to collaborating on <b>Data Engineering | Microsoft Fabric | PySpark | Analytics Engineering | Data Platform Projects</b></li>
+  <li>👯 Open to collaborating on <b>Data Engineering</b>, <b>Microsoft Fabric</b>, and <b>Analytics Engineering</b> projects — always happy to connect on real-world <b>data platform</b> work</li>
   <li>🌐 View my portfolio: <a href="https://leashaniya.github.io/my-portfolio/" target="_blank"><b>leashaniya.github.io/my-portfolio</b></a></li>
   <li>📫 Reach me at <b>leashakrish2002@gmail.com</b></li>
 </ul>
