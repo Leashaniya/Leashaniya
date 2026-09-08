@@ -30,8 +30,7 @@ Microsoft Fabric · PySpark · SQL · Python · Power BI & DAX · Lakehouse Arch
 <ul>
   <li>👯 Open to collaborating on <b>Data Engineering</b>, <b>Microsoft Fabric</b>, and <b>Analytics Engineering</b> projects, always happy to connect on real world <b>data platform</b> work</li>
   <li>🌐 View my portfolio: <a href="https://leashaniya.github.io/my-portfolio/" target="_blank"><b>leashaniya.github.io/my-portfolio</b></a></li>
-  <li>📫 Reach me at <b>leashakrish2002@gmail.com</b></li>
-</ul>
+  <li>📫 Reach me at <a href="mailto:leashakrish2002@gmail.com"><b>leashakrish2002@gmail.com</b></a></li>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
