@@ -41,6 +41,6 @@ Microsoft Fabric · PySpark · SQL · Python · Power BI & DAX · Lakehouse Arch
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="https://leashaniya.github.io/my-portfolio/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubpages.svg" alt="Portfolio" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </p>
