@@ -37,14 +37,20 @@ Microsoft Fabric · PySpark · SQL · Python · Power BI & DAX · Lakehouse Arch
 <ul>
   <li>🏅 <b>Microsoft Certified: Fabric Data Engineer Associate</b> (DP-700)</li>
   <li>👯 Open to collaborating on <b>Data Engineering</b>, <b>Microsoft Fabric</b>, and <b>Analytics Engineering</b> projects, always happy to connect on real-world <b>data platform</b> work</li>
-  <li>🌐 View my portfolio: <a href="https://leashaniya.github.io/my-portfolio/" target="_blank"><b>leashaniya.github.io/my-portfolio</b></a></li>
-  <li>📫 Reach me at <a href="mailto:leashakrish2002@gmail.com"><b>leashakrish2002@gmail.com</b></a></li>
 </ul>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/leashaniya-krishnapillai-36b20a247/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@leashakrish2002" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30"
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://leashaniya.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-D9A441?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:leashakrish2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
